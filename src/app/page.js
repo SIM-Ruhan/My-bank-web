@@ -64,7 +64,7 @@ export default function HomePage() {
                 <Sparkles size={22} className="text-white" />
               </div>
               <div>
-                <h3 className="text-base font-extrabold text-slate-800">Get started with BankFlow</h3>
+                <h3 className="text-base font-extrabold text-slate-800">Get started with MyBank</h3>
                 <p className="text-sm text-slate-500 mt-0.5">
                   Create a free account to link your banks, track transactions, and more.
                 </p>

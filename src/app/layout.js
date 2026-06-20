@@ -2,7 +2,7 @@ import "./globals.css";
 import Providers from "./Providers";
 
 export const metadata = {
-  title: "BankFlow — All Your Banks, One Place",
+  title: "MyBank — All Your Banks, One Place",
   description: "Manage all your bank accounts in a single, elegant dashboard.",
 };
 

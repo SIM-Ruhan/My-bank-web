@@ -6,13 +6,13 @@
 
 ## One-line summary
 
-> BankFlow is a responsive Next.js web app that simulates a "financial super-app" — letting a user register, log in, link multiple bank accounts, and perform transfers, bill payments, recharges, donations, loans, and tax calculations, all from one unified dashboard with real-time balance tracking.
+> MyBank is a responsive Next.js web app that simulates a "financial super-app" — letting a user register, log in, link multiple bank accounts, and perform transfers, bill payments, recharges, donations, loans, and tax calculations, all from one unified dashboard with real-time balance tracking.
 
 ---
 
 ## Project Description (for portfolio / resume)
 
-**BankFlow** is a full front-end simulation of a multi-bank account aggregator, built with **Next.js (App Router)** and **Tailwind CSS**. The core idea: instead of juggling five different banking apps, a user links all their accounts into one place and manages everything — balances, transfers, bills, taxes — from a single screen.
+**MyBank** is a full front-end simulation of a multi-bank account aggregator, built with **Next.js (App Router)** and **Tailwind CSS**. The core idea: instead of juggling five different banking apps, a user links all their accounts into one place and manages everything — balances, transfers, bills, taxes — from a single screen.
 
 The project includes a complete **authentication system** (registration, login, session persistence, and per-user data isolation) built entirely client-side using React Context and `localStorage`, simulating how a real auth-gated fintech product would behave without requiring a backend. Guests see a locked-down, zero-balance view of the dashboard; every protected action — adding a bank, transferring funds, paying a bill — is guarded both at the UI level and the route level, redirecting unauthenticated users to login with a toast notification.
 

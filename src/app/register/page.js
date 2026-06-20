@@ -97,7 +97,7 @@ export default function RegisterPage() {
               <Landmark size={22} className="text-white" />
             </div>
             <span className="text-xl font-extrabold text-slate-800">
-              Bank<span className="text-indigo-500">Flow</span>
+              My<span className="text-indigo-600">Bank</span>
             </span>
           </Link>
 

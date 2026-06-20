@@ -75,7 +75,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-600">
-          <p>© 2025 BankFlow. All rights reserved.</p>
+          <p>© 2026 MyBank. All rights reserved.</p>
           <p className="text-slate-700">
             Built for demonstration purposes only. Not a real financial service.
           </p>
